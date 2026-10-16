@@ -59,3 +59,13 @@ A：是的，这是经过平衡性考量的固定值，避免过强的恢复能�
 ## 
 
 QQ群：573485890
+
+---
+
+## 许可证
+
+本项目以 **GNU General Public License v3.0** 发布。
+
+Copyright (C) 2026 cn_xc
+
+完整条款见仓库根目录 [LICENSE](LICENSE)。
