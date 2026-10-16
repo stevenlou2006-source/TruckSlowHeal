@@ -1,0 +1,9 @@
+{
+    "name": "TruckSlowHeal",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "卡车内自动缓慢回血，每秒回复最大生命值的5%，独立判断不影响队友。",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
