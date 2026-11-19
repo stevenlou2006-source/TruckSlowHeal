@@ -62,6 +62,14 @@ A：是的，这是经过平衡性考量的固定值，避免过强的恢复能�
 
 ---
 
+<!-- donate-start -->
+## 支持作者 / Support
+
+如果这个模组对你有帮助，欢迎[扫码打赏](https://stevenlou2006-source.github.io/cn_xc-media/)——所有打赏只会用于更新与优化模组，不会有其他用途。
+
+If this mod helps you, feel free to [buy me a coffee](https://stevenlou2006-source.github.io/cn_xc-media/) via WeChat Pay. All tips are used only to update and improve my mods.
+<!-- donate-end -->
+
 ## 许可证
 
 本项目以 **GNU General Public License v3.0** 发布。
